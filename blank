@@ -1,0 +1,27 @@
+
+
+
+
+82C0E4
+6FB2D9
+9A94FD
+
+<div id="eye" class="eye2">
+    <div id="pupil">
+      </div>
+    <div id="eye-glitter">
+      </div>
+      <div id="eye-glitter2">
+        </div>
+</div>
+
+
+
+animation-name: blink;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+
+
+
+animation-play-state: inherit;
+animation-play-state: paused;
